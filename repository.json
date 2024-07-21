@@ -1,0 +1,11 @@
+{
+  "name": "Virgin Media Hub Integration",
+  "description": "Integration with Virgin Media Super Hub 5",
+  "category": "integration",
+  "domain": "virgin_media_hub",
+  "iot_class": "local_polling",
+  "homeassistant": "0.110.0",
+  "country": ["GB"],
+  "codeowners": ["@robbalmbra"],
+  "version": "1.0.0"
+}

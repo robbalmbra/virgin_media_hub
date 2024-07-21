@@ -1,0 +1,9 @@
+{
+  "domain": "virgin_media_hub",
+  "name": "Virgin Media Hub",
+  "version": "1.0.0",
+  "documentation": "https://github.com/robbalmbra/virgin_media_hub",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@robbalmbra"]
+}
